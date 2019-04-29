@@ -1,1 +1,1 @@
-# Cucumber
+In this Cucumber class assignment i was suppose to manage user by creating different scenarios. e.g Creating a user, login the user with correct and wrong login and password, creating many users and loging them, updating the user and finally deleting the user and trying to get the user. 
